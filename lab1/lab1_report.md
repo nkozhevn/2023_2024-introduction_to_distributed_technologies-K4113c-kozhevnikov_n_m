@@ -1,3 +1,5 @@
+
+
 ### Установка ПО
 1. Установка Docker
 2. Запуск minikube
@@ -65,6 +67,12 @@ minikube kubectl -- port-forward service/vault 8200:8200
 minikube stop
 ```
 <img width="568" alt="image" src="https://github.com/nkozhevn/introduction_to_distributed_technologies_labs/assets/74055661/d06374bd-6480-4208-a23b-ffad92497e4c">
+
+### Ответы на вопросы
+#### 1. Что сейчас произошло и что сделали команды указанные ранее?\
+   Развернуто приложение из двух подов и одного сервиса для доступа к ним.
+#### 2. Где взять токен для входа в Vault?\
+   В логах в параметре Root Token
 
 ### Схема организации контейнеров
 ![containers](https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/d61bdf6f-4745-4ee0-b1ac-6567a6ab5a76)
