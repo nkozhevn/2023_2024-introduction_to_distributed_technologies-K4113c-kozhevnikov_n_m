@@ -92,9 +92,10 @@ minikube kubectl port-forward app-5dd85f6759-2d9qx 3000:3000
 
 ### Просмотр страницы и логов
 1. Просмотр открытой страницы
-<img width="1400" alt="image" src="https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/d7c0e6df-451e-4d17-9df5-f4c32d4073a9">
+<img width="1400" alt="image" src="https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/d7c0e6df-451e-4d17-9df5-f4c32d4073a9">\
+Значения переменных, прописанные в манифесте, остаются неизменными. Имя пода и IP-адрес могут меняться в зависимости от того, к какому поду было выполнено подключение.
 
-2. Просмотр логов
+3. Просмотр логов
 ```
 minikube kubectl logs app-5dd85f6759-2d9qx
 ```
@@ -105,6 +106,7 @@ minikube kubectl logs app-5dd85f6759-2lt6d
 ```
 <img width="568" alt="image" src="https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/2f60581f-79ca-48a7-abc4-a1640098e5ec">
 
-
+___
+### Схема организации контейнеров
 ![deployment](https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/58809d04-cb40-4dc0-a3b0-8e0bdfd19ccf)
 
