@@ -1,8 +1,13 @@
+В качестве подготовки был установлен minikube, запущен и установлен kubectl.
+
+Запуск minikube
 '''
 minikube start
 '''
+
 <img width="568" alt="image" src="https://github.com/nkozhevn/introduction_to_distributed_technologies_labs/assets/74055661/bcacacc0-36ea-4764-a1cc-9d6d294da43e">
 
+Установка kubectl
 '''
 minikube kubectl
 '''
