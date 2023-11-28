@@ -60,7 +60,7 @@ minikube kubectl -- expose pod vault --type=NodePort --port=8200
 ```
 minikube kubectl -- logs vault
 ```
-<img width="515" alt="image" src="https://github.com/nkozhevn/introduction_to_distributed_technologies_labs/assets/74055661/70061f4a-6ea8-4b18-bb8a-ff5a7df1191e">
+<img width="515" alt="image" src="https://github.com/nkozhevn/introduction_to_distributed_technologies_labs/assets/74055661/70061f4a-6ea8-4b18-bb8a-ff5a7df1191e">\
 В логах видно Root Token - он нужен для входа в vault.
 
 2. Проброс портов
