@@ -6,7 +6,7 @@ Group: K4113c\
 Author: Kozhevnikov Nikolai Mikhailovich\
 Lab: Lab1\
 Date of create: 27.11.2023\
-Date of finished: \
+Date of finished: 
 
 ___
 
