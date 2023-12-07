@@ -20,4 +20,8 @@ sudo nano /etc/hosts
 127.0.0.1       react.secret
 <img width="562" alt="image" src="https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/cb2d9dc1-8c9d-401f-bfab-33fed2d31da7">
 
+react.secret
+<img width="538" alt="image" src="https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/4d56f5a6-6338-4315-845c-fc304d172a67">
+
+<img width="400" alt="image" src="https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/62e84202-35ed-4cbd-84fc-f9c5a825dfa5">
 
