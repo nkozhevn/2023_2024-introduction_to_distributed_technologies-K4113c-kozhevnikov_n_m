@@ -139,5 +139,7 @@ react.secret
 ```
 <img width="400" alt="image" src="https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/62e84202-35ed-4cbd-84fc-f9c5a825dfa5">
 
+___
+
 ### Схема организации контейнеров
 ![image](https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/b151e7be-87b5-49d4-9a22-34397932ca62)
