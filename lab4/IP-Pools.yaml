@@ -1,0 +1,19 @@
+apiVersion: projectcalico.org/v3
+kind: IPPool
+metadata:
+   name: zone-home-ippool
+spec:
+   cidr: 192.168.0.0/24
+   ipipMode: Always
+   natOutgoing: true
+   nodeSelector: zone == "home"
+---
+apiVersion: projectcalico.org/v3
+kind: IPPool
+metadata:
+   name: zone-work-ippool
+spec:
+   cidr: 192.168.1.0/24
+   ipipMode: Always
+   natOutgoing: true
+   nodeSelector: zone == "work"
