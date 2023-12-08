@@ -107,6 +107,7 @@ minikube kubectl logs app-5dd85f6759-2lt6d
 <img width="568" alt="image" src="https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/2f60581f-79ca-48a7-abc4-a1640098e5ec">
 
 ___
+
 ### Схема организации контейнеров
 ![deployment](https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/58809d04-cb40-4dc0-a3b0-8e0bdfd19ccf)
 
