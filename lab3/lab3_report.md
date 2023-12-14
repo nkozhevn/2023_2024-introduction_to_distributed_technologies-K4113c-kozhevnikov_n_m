@@ -137,7 +137,8 @@ sudo nano /etc/hosts
 ```
 react.secret
 ```
-<img width="400" alt="image" src="https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/62e84202-35ed-4cbd-84fc-f9c5a825dfa5">
+![image](https://github.com/nkozhevn/2023_2024-introduction_to_distributed_technologies-K4113c-kozhevnikov_n_m/assets/74055661/fabb1657-d619-41fc-aa42-473b7bc3eb46)
+
 
 ___
 
